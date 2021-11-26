@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Map 1
+  m_EditorClassIdentifier: 
+  m_GroupName: Map 1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a9b479da05fd4304ab414413442a7b6c
+  m_SerializeEntries:
+  - m_GUID: 320c41ef752673543935f3b8b752682f
+    m_Address: Level 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Asset Map 1
+  - m_GUID: 7ef05a97f19ea264494d576602ad954e
+    m_Address: Map 1 Prefab 3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Asset Map 1
+  - m_GUID: 74d63e0bb1406cc4cad4f1b505a11f8d
+    m_Address: Map 1 Prefab 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Asset Map 1
+  - m_GUID: 1739e9e1d937dec4497a0bbedcf5937e
+    m_Address: Map 1 Prefab 2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Asset Map 1
+  - m_GUID: f627442cdeb67194f87424b5bde2cdc2
+    m_Address: Prefab Map 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Asset Map 1
+  - m_GUID: cbbdadf7adf76b34b8eb20f12ec85b1a
+    m_Address: Map 1 Mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Asset Map 1
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bb88b16cd15f13c42b1875162679c22a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5389c10cb8d26cc44ab3e81591c34248, type: 2}
+    - {fileID: 11400000, guid: 60f37422bd6ee4f44a95035f115794bd, type: 2}

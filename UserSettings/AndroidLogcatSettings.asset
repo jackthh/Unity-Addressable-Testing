@@ -1,0 +1,131 @@
+{
+    "m_SelectedDeviceId": "b853855",
+    "m_SelectedPackage": {
+        "deviceId": "b853855",
+        "name": "com.DefaultCompany.UnityAddressableTesting",
+        "processId": 12401,
+        "exited": false
+    },
+    "m_SelectedPriority": 1,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "b853855",
+            "name": "com.miui.home",
+            "processId": 30880,
+            "exited": false
+        },
+        {
+            "deviceId": "b853855",
+            "name": "com.DefaultCompany.UnityAddressableTesting",
+            "processId": 19669,
+            "exited": true
+        },
+        {
+            "deviceId": "b853855",
+            "name": "com.DefaultCompany.UnityAddressableTesting",
+            "processId": 24966,
+            "exited": true
+        },
+        {
+            "deviceId": "b853855",
+            "name": "com.DefaultCompany.UnityAddressableTesting",
+            "processId": 31420,
+            "exited": true
+        },
+        {
+            "deviceId": "b853855",
+            "name": "com.DefaultCompany.UnityAddressableTesting",
+            "processId": 4938,
+            "exited": true
+        },
+        {
+            "deviceId": "b853855",
+            "name": "com.DefaultCompany.UnityAddressableTesting",
+            "processId": 6966,
+            "exited": true
+        },
+        {
+            "deviceId": "b853855",
+            "name": "com.DefaultCompany.UnityAddressableTesting",
+            "processId": 9857,
+            "exited": false
+        },
+        {
+            "deviceId": "b853855",
+            "name": "com.DefaultCompany.UnityAddressableTesting",
+            "processId": 25675,
+            "exited": false
+        },
+        {
+            "deviceId": "b853855",
+            "name": "com.DefaultCompany.UnityAddressableTesting",
+            "processId": 8744,
+            "exited": false
+        },
+        {
+            "deviceId": "b853855",
+            "name": "com.DefaultCompany.UnityAddressableTesting",
+            "processId": 10127,
+            "exited": false
+        },
+        {
+            "deviceId": "b853855",
+            "name": "com.DefaultCompany.UnityAddressableTesting",
+            "processId": 12401,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "TESTING",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
